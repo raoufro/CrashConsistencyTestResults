@@ -1,0 +1,4 @@
+Jul 14 19:19:48 - fsck failed at entry 8477. (main)
+Jul 14 19:19:48 - The replay of xfstests failed. (apply_consistency_test)
+Jul 14 19:19:48 - [FAIL] Running generic/013 failed. (consistency_single)
+Jul 14 19:19:48 - Cleaning up after consistency test. (consistency)
